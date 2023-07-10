@@ -1,0 +1,37 @@
+{
+  "employee": [
+    {
+      "name": "Surendra Singh",
+      "email": "surrigusain8@gmail.com",
+      "designation": "FrontEnd Developer",
+      "Gender": "Male"
+    },
+    {
+      "name": "Nirdesh Singh",
+      "email": "nirdeshsingh500@gmail.com",
+      "designation": "Sale",
+      "Gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Rohit Singh",
+      "email": "rohit2001@gmail.com",
+      "designation": "Web Designer",
+      "Gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Monika",
+      "email": "monika2001@gmail.com",
+      "designation": "System Eng",
+      "Gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Monika",
+      "email": "monika2001@gmail.com",
+      "designation": "System Eng",
+      "Gender": "Female"
+    }
+  ]
+}
